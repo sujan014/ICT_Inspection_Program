@@ -1,0 +1,145 @@
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\bin\Release\KI_GUI.exe.config
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\obj\Release\KI_GUI.csprojResolveAssemblyReference.cache
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\obj\Release\KI_GUI._000_Main.info.resources
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\obj\Release\KI_GUI.KI.resources
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\obj\Release\KI_GUI.Properties.Resources.resources
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\obj\Release\KI_GUI._000_Main.Vision_Setup.resources
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\obj\Release\KI_GUI.csproj.GenerateResource.Cache
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Release\KI_GUI.exe.config
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Release\dll\x86\OpenCvSharpExtern.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Release\dll\x86\opencv_videoio_ffmpeg452.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Release\dll\x64\OpenCvSharpExtern.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Release\dll\x64\opencv_videoio_ffmpeg452_64.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Release\KI_GUI.exe
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Release\KI_GUI.pdb
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Release\MetroFramework.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Release\OpenCvSharp.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Release\OpenCvSharp.Extensions.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Release\OpenCvSharp.WpfExtensions.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Release\System.Buffers.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Release\System.Drawing.Common.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Release\System.Memory.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Release\System.Numerics.Vectors.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Release\System.ValueTuple.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Release\OpenCvSharp.xml
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Release\OpenCvSharp.Extensions.xml
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Release\OpenCvSharp.WpfExtensions.xml
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Release\System.Buffers.xml
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Release\System.Memory.xml
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Release\System.Numerics.Vectors.xml
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Release\System.ValueTuple.xml
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\obj\Release\KI_GUI.csprojResolveAssemblyReference.cache
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\obj\Release\KI_GUI._000_Main.info.resources
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\obj\Release\KI_GUI.KI.resources
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\obj\Release\KI_GUI.Properties.Resources.resources
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\obj\Release\KI_GUI._000_Main.Vision_Setup.resources
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\obj\Release\KI_GUI.csproj.GenerateResource.Cache
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\obj\Release\KI_GUI.exe
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\obj\Release\KI_GUI.pdb
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Release\KI_GUI.exe.config
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\obj\Release\KI_GUI.exe
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\obj\Release\KI_GUI.pdb
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Release\dll\x86\OpenCvSharpExtern.dll
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Release\dll\x86\opencv_videoio_ffmpeg452.dll
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Release\dll\x64\OpenCvSharpExtern.dll
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Release\dll\x64\opencv_videoio_ffmpeg452_64.dll
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Release\KI_GUI.exe
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Release\KI_GUI.pdb
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Release\MetroFramework.dll
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Release\OpenCvSharp.dll
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Release\OpenCvSharp.Extensions.dll
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Release\OpenCvSharp.WpfExtensions.dll
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Release\System.Buffers.dll
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Release\System.Drawing.Common.dll
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Release\System.Memory.dll
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Release\System.Numerics.Vectors.dll
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Release\System.ValueTuple.dll
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Release\OpenCvSharp.xml
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Release\OpenCvSharp.Extensions.xml
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Release\OpenCvSharp.WpfExtensions.xml
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Release\System.Buffers.xml
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Release\System.Memory.xml
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Release\System.Numerics.Vectors.xml
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Release\System.ValueTuple.xml
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\obj\Release\KI_GUI.csprojResolveAssemblyReference.cache
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\obj\Release\KI_GUI._000_Main.info.resources
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\obj\Release\KI_GUI.KI.resources
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\obj\Release\KI_GUI.Properties.Resources.resources
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\obj\Release\KI_GUI._000_Main.Vision_Setup.resources
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\obj\Release\KI_GUI.csproj.GenerateResource.Cache
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Release\dll\x86\OpenCvSharpExtern.dll
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Release\dll\x86\opencv_videoio_ffmpeg452.dll
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Release\dll\x64\OpenCvSharpExtern.dll
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Release\dll\x64\opencv_videoio_ffmpeg452_64.dll
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Release\KI_GUI.exe.config
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Release\KI_GUI.exe
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Release\KI_GUI.pdb
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Release\MetroFramework.dll
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Release\OpenCvSharp.dll
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Release\OpenCvSharp.Extensions.dll
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Release\OpenCvSharp.UserInterface.dll
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Release\OpenCvSharp.WpfExtensions.dll
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Release\System.Buffers.dll
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Release\System.Drawing.Common.dll
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Release\System.Memory.dll
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Release\System.Numerics.Vectors.dll
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Release\System.ValueTuple.dll
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Release\OpenCvSharp.xml
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Release\OpenCvSharp.Extensions.xml
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Release\OpenCvSharp.WpfExtensions.xml
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Release\System.Buffers.xml
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Release\System.Memory.xml
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Release\System.Numerics.Vectors.xml
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Release\System.ValueTuple.xml
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\obj\Release\KI_GUI.csproj.AssemblyReference.cache
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\obj\Release\KI_GUI._000_Main.info.resources
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\obj\Release\KI_GUI.KI.resources
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\obj\Release\KI_GUI.Properties.Resources.resources
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\obj\Release\KI_GUI._000_Main.Vision_Setup.resources
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\obj\Release\KI_GUI.csproj.GenerateResource.cache
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\obj\Release\KI_GUI.csproj.CoreCompileInputs.cache
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\obj\Release\KI_GUI.csproj.CopyComplete
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\obj\Release\KI_GUI.exe
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\obj\Release\KI_GUI.pdb
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Release\KI_GUI.exe.config
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\obj\Release\KI_GUI.exe
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\obj\Release\KI_GUI.pdb
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Release\dll\x86\OpenCvSharpExtern.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Release\dll\x86\opencv_videoio_ffmpeg452.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Release\dll\x64\OpenCvSharpExtern.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Release\dll\x64\opencv_videoio_ffmpeg452_64.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Release\KI_GUI.exe
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Release\KI_GUI.pdb
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Release\MetroFramework.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Release\OpenCvSharp.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Release\OpenCvSharp.Extensions.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Release\OpenCvSharp.UserInterface.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Release\OpenCvSharp.WpfExtensions.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Release\System.Buffers.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Release\System.Drawing.Common.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Release\System.Memory.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Release\System.Numerics.Vectors.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Release\System.ValueTuple.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Release\OpenCvSharp.xml
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Release\OpenCvSharp.Extensions.xml
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Release\OpenCvSharp.WpfExtensions.xml
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Release\System.Buffers.xml
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Release\System.Memory.xml
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Release\System.Numerics.Vectors.xml
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Release\System.ValueTuple.xml
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\obj\Release\KI_GUI.csprojResolveAssemblyReference.cache
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\obj\Release\KI_GUI._000_Main.info.resources
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\obj\Release\KI_GUI.KI.resources
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\obj\Release\KI_GUI.Properties.Resources.resources
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\obj\Release\KI_GUI._000_Main.Vision_Setup.resources
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\obj\Release\KI_GUI.csproj.GenerateResource.Cache

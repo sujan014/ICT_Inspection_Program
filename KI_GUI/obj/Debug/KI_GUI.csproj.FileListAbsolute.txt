@@ -1,0 +1,632 @@
+C:\Users\lovec\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\bin\Debug\KI_GUI.exe.config
+C:\Users\lovec\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\obj\Debug\KI_GUI.exe
+C:\Users\lovec\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\obj\Debug\KI_GUI.pdb
+C:\Users\lovec\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\bin\Debug\KI_GUI.exe
+C:\Users\lovec\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\bin\Debug\KI_GUI.pdb
+C:\Users\lovec\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\obj\Debug\KI_GUI.csprojResolveAssemblyReference.cache
+C:\Users\lovec\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\obj\Debug\KI_GUI.KI_Manager.resources
+C:\Users\lovec\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\obj\Debug\KI_GUI.Properties.Resources.resources
+C:\Users\lovec\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\obj\Debug\KI_GUI.csproj.GenerateResource.Cache
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI (2)\KI_GUI\bin\Debug\KI_GUI.exe.config
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI (2)\KI_GUI\obj\Debug\KI_GUI.exe
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI (2)\KI_GUI\obj\Debug\KI_GUI.pdb
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI (2)\KI_GUI\bin\Debug\KI_GUI.exe
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI (2)\KI_GUI\bin\Debug\KI_GUI.pdb
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI (2)\KI_GUI\obj\Debug\KI_GUI.csprojResolveAssemblyReference.cache
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI (2)\KI_GUI\obj\Debug\KI_GUI.KI_Manager.resources
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI (2)\KI_GUI\obj\Debug\KI_GUI.Properties.Resources.resources
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI (2)\KI_GUI\obj\Debug\KI_GUI.csproj.GenerateResource.Cache
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\bin\Debug\KI_GUI.exe.config
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\bin\Debug\KI_GUI.exe
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\bin\Debug\KI_GUI.pdb
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\obj\Debug\KI_GUI.KI.resources
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\obj\Debug\KI_GUI.Properties.Resources.resources
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\obj\Debug\KI_GUI.csproj.GenerateResource.Cache
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\obj\Debug\KI_GUI.exe
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\obj\Debug\KI_GUI.pdb
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\bin\Debug\OpenCvSharp.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\bin\Debug\System.Buffers.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\bin\Debug\System.Drawing.Common.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\bin\Debug\System.Memory.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\bin\Debug\System.ValueTuple.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\bin\Debug\OpenCvSharp.xml
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\bin\Debug\System.Buffers.xml
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\bin\Debug\System.Memory.xml
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\bin\Debug\System.ValueTuple.xml
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\bin\Debug\dll\x86\opencv_videoio_ffmpeg452.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\bin\Debug\dll\x64\opencv_videoio_ffmpeg452_64.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\bin\Debug\OpenCvSharp.WpfExtensions.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\bin\Debug\OpenCvSharp.WpfExtensions.xml
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\obj\Debug\KI_GUI._000_Main.Vision_Setup.resources
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\obj\Debug\KI_GUI._000_Main.info.resources
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI(UI TEST1)\KI_GUI\bin\Debug\KI_GUI.exe.config
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI(UI TEST1)\KI_GUI\obj\Debug\KI_GUI.exe
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI(UI TEST1)\KI_GUI\obj\Debug\KI_GUI.pdb
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI(UI TEST1)\KI_GUI\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI(UI TEST1)\KI_GUI\bin\Debug\dll\x86\opencv_videoio_ffmpeg452.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI(UI TEST1)\KI_GUI\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI(UI TEST1)\KI_GUI\bin\Debug\dll\x64\opencv_videoio_ffmpeg452_64.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI(UI TEST1)\KI_GUI\bin\Debug\KI_GUI.exe
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI(UI TEST1)\KI_GUI\bin\Debug\KI_GUI.pdb
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI(UI TEST1)\KI_GUI\bin\Debug\MetroFramework.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI(UI TEST1)\KI_GUI\bin\Debug\OpenCvSharp.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI(UI TEST1)\KI_GUI\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI(UI TEST1)\KI_GUI\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI(UI TEST1)\KI_GUI\bin\Debug\OpenCvSharp.WpfExtensions.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI(UI TEST1)\KI_GUI\bin\Debug\System.Buffers.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI(UI TEST1)\KI_GUI\bin\Debug\System.Drawing.Common.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI(UI TEST1)\KI_GUI\bin\Debug\System.Memory.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI(UI TEST1)\KI_GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI(UI TEST1)\KI_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI(UI TEST1)\KI_GUI\bin\Debug\System.ValueTuple.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI(UI TEST1)\KI_GUI\bin\Debug\OpenCvSharp.xml
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI(UI TEST1)\KI_GUI\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI(UI TEST1)\KI_GUI\bin\Debug\OpenCvSharp.WpfExtensions.xml
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI(UI TEST1)\KI_GUI\bin\Debug\System.Buffers.xml
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI(UI TEST1)\KI_GUI\bin\Debug\System.Memory.xml
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI(UI TEST1)\KI_GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI(UI TEST1)\KI_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI(UI TEST1)\KI_GUI\bin\Debug\System.ValueTuple.xml
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI(UI TEST1)\KI_GUI\obj\Debug\KI_GUI.csprojResolveAssemblyReference.cache
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI(UI TEST1)\KI_GUI\obj\Debug\KI_GUI._000_Main.info.resources
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI(UI TEST1)\KI_GUI\obj\Debug\KI_GUI.KI.resources
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI(UI TEST1)\KI_GUI\obj\Debug\KI_GUI.Properties.Resources.resources
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI(UI TEST1)\KI_GUI\obj\Debug\KI_GUI._000_Main.Vision_Setup.resources
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI(UI TEST1)\KI_GUI\obj\Debug\KI_GUI.csproj.GenerateResource.Cache
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI\KI_GUI\obj\Debug\KI_GUI.csprojResolveAssemblyReference.cache
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\KI_GUI.exe.config
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\obj\Debug\KI_GUI.exe
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\obj\Debug\KI_GUI.pdb
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\dll\x86\opencv_videoio_ffmpeg452.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\dll\x64\opencv_videoio_ffmpeg452_64.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\KI_GUI.exe
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\KI_GUI.pdb
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\OpenCvSharp.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\OpenCvSharp.WpfExtensions.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\System.Buffers.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\System.Drawing.Common.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\System.Memory.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\System.ValueTuple.dll
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\OpenCvSharp.xml
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\OpenCvSharp.WpfExtensions.xml
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\System.Buffers.xml
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\System.Memory.xml
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\System.ValueTuple.xml
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\obj\Debug\KI_GUI.csprojResolveAssemblyReference.cache
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\obj\Debug\KI_GUI._000_Main.info.resources
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\obj\Debug\KI_GUI.KI.resources
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\obj\Debug\KI_GUI.Properties.Resources.resources
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\obj\Debug\KI_GUI._000_Main.Vision_Setup.resources
+C:\Users\master\Desktop\신규보드 프로그램\KI_GUI_LGD\KI_GUI\obj\Debug\KI_GUI.csproj.GenerateResource.Cache
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Debug\KI_GUI.exe.config
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\obj\Debug\KI_GUI.exe
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\obj\Debug\KI_GUI.pdb
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\obj\Debug\KI_GUI.csprojResolveAssemblyReference.cache
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\obj\Debug\KI_GUI._000_Main.info.resources
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\obj\Debug\KI_GUI.KI.resources
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\obj\Debug\KI_GUI.Properties.Resources.resources
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\obj\Debug\KI_GUI._000_Main.Vision_Setup.resources
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\obj\Debug\KI_GUI.csproj.GenerateResource.Cache
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Debug\dll\x86\opencv_videoio_ffmpeg452.dll
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Debug\dll\x64\opencv_videoio_ffmpeg452_64.dll
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Debug\KI_GUI.exe
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Debug\KI_GUI.pdb
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Debug\OpenCvSharp.dll
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Debug\OpenCvSharp.WpfExtensions.dll
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Debug\System.Buffers.dll
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Debug\System.Drawing.Common.dll
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Debug\System.Memory.dll
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Debug\System.ValueTuple.dll
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Debug\OpenCvSharp.xml
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Debug\OpenCvSharp.WpfExtensions.xml
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Debug\System.Buffers.xml
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Debug\System.Memory.xml
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\master\Desktop\신규보드 적용 LP156WFD-SPL4_SPK2\신규보드 프로그램_LGD\KI_GUI_LGD\KI_GUI\bin\Debug\System.ValueTuple.xml
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\dll\x86\opencv_videoio_ffmpeg452.dll
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\dll\x64\opencv_videoio_ffmpeg452_64.dll
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\KI_GUI.exe.config
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\KI_GUI.exe
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\KI_GUI.pdb
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\OpenCvSharp.dll
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\OpenCvSharp.WpfExtensions.dll
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\System.Buffers.dll
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\System.Drawing.Common.dll
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\System.Memory.dll
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\System.ValueTuple.dll
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\OpenCvSharp.xml
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\OpenCvSharp.WpfExtensions.xml
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\System.Buffers.xml
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\System.Memory.xml
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\bin\Debug\System.ValueTuple.xml
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\obj\Debug\KI_GUI.csproj.AssemblyReference.cache
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\obj\Debug\KI_GUI._000_Main.info.resources
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\obj\Debug\KI_GUI.KI.resources
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\obj\Debug\KI_GUI.Properties.Resources.resources
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\obj\Debug\KI_GUI._000_Main.Vision_Setup.resources
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\obj\Debug\KI_GUI.csproj.GenerateResource.cache
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\obj\Debug\KI_GUI.csproj.CoreCompileInputs.cache
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\obj\Debug\KI_GUI.csproj.CopyComplete
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\obj\Debug\KI_GUI.exe
+C:\Users\master\Desktop\LM238WF5-SSM2 관련자료\프로그램\KI_GUI_LGD\KI_GUI\obj\Debug\KI_GUI.pdb
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download\00.Program_Source\GUI\KI_GUI_LGD\KI_GUI\bin\Debug\KI_GUI.exe.config
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download\00.Program_Source\GUI\KI_GUI_LGD\KI_GUI\obj\Debug\KI_GUI.exe
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download\00.Program_Source\GUI\KI_GUI_LGD\KI_GUI\obj\Debug\KI_GUI.pdb
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download\00.Program_Source\GUI\KI_GUI_LGD\KI_GUI\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download\00.Program_Source\GUI\KI_GUI_LGD\KI_GUI\bin\Debug\dll\x86\opencv_videoio_ffmpeg452.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download\00.Program_Source\GUI\KI_GUI_LGD\KI_GUI\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download\00.Program_Source\GUI\KI_GUI_LGD\KI_GUI\bin\Debug\dll\x64\opencv_videoio_ffmpeg452_64.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download\00.Program_Source\GUI\KI_GUI_LGD\KI_GUI\bin\Debug\KI_GUI.exe
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download\00.Program_Source\GUI\KI_GUI_LGD\KI_GUI\bin\Debug\KI_GUI.pdb
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download\00.Program_Source\GUI\KI_GUI_LGD\KI_GUI\bin\Debug\OpenCvSharp.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download\00.Program_Source\GUI\KI_GUI_LGD\KI_GUI\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download\00.Program_Source\GUI\KI_GUI_LGD\KI_GUI\bin\Debug\OpenCvSharp.WpfExtensions.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download\00.Program_Source\GUI\KI_GUI_LGD\KI_GUI\bin\Debug\System.Buffers.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download\00.Program_Source\GUI\KI_GUI_LGD\KI_GUI\bin\Debug\System.Drawing.Common.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download\00.Program_Source\GUI\KI_GUI_LGD\KI_GUI\bin\Debug\System.Memory.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download\00.Program_Source\GUI\KI_GUI_LGD\KI_GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download\00.Program_Source\GUI\KI_GUI_LGD\KI_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download\00.Program_Source\GUI\KI_GUI_LGD\KI_GUI\bin\Debug\System.ValueTuple.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download\00.Program_Source\GUI\KI_GUI_LGD\KI_GUI\bin\Debug\OpenCvSharp.xml
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download\00.Program_Source\GUI\KI_GUI_LGD\KI_GUI\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download\00.Program_Source\GUI\KI_GUI_LGD\KI_GUI\bin\Debug\OpenCvSharp.WpfExtensions.xml
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download\00.Program_Source\GUI\KI_GUI_LGD\KI_GUI\bin\Debug\System.Buffers.xml
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download\00.Program_Source\GUI\KI_GUI_LGD\KI_GUI\bin\Debug\System.Memory.xml
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download\00.Program_Source\GUI\KI_GUI_LGD\KI_GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download\00.Program_Source\GUI\KI_GUI_LGD\KI_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download\00.Program_Source\GUI\KI_GUI_LGD\KI_GUI\bin\Debug\System.ValueTuple.xml
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download\00.Program_Source\GUI\KI_GUI_LGD\KI_GUI\obj\Debug\KI_GUI.csprojResolveAssemblyReference.cache
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download\00.Program_Source\GUI\KI_GUI_LGD\KI_GUI\obj\Debug\KI_GUI._000_Main.info.resources
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download\00.Program_Source\GUI\KI_GUI_LGD\KI_GUI\obj\Debug\KI_GUI.KI.resources
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download\00.Program_Source\GUI\KI_GUI_LGD\KI_GUI\obj\Debug\KI_GUI.Properties.Resources.resources
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download\00.Program_Source\GUI\KI_GUI_LGD\KI_GUI\obj\Debug\KI_GUI._000_Main.Vision_Setup.resources
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download\00.Program_Source\GUI\KI_GUI_LGD\KI_GUI\obj\Debug\KI_GUI.csproj.GenerateResource.Cache
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\KI_GUI.exe.config
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\obj\Debug\KI_GUI.exe
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\obj\Debug\KI_GUI.pdb
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\dll\x86\opencv_videoio_ffmpeg452.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\dll\x64\opencv_videoio_ffmpeg452_64.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\KI_GUI.exe
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\KI_GUI.pdb
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\OpenCvSharp.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\OpenCvSharp.WpfExtensions.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\System.Buffers.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\System.Drawing.Common.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\System.Memory.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\System.ValueTuple.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\OpenCvSharp.xml
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\OpenCvSharp.WpfExtensions.xml
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\System.Buffers.xml
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\System.Memory.xml
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\System.ValueTuple.xml
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\obj\Debug\KI_GUI.csprojResolveAssemblyReference.cache
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\obj\Debug\KI_GUI._000_Main.info.resources
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\obj\Debug\KI_GUI.KI.resources
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\obj\Debug\KI_GUI.Properties.Resources.resources
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\obj\Debug\KI_GUI._000_Main.Vision_Setup.resources
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\obj\Debug\KI_GUI.csproj.GenerateResource.Cache
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\Server\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\KI_GUI.exe.config
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\Server\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\obj\Debug\KI_GUI.exe
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\Server\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\obj\Debug\KI_GUI.pdb
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\Server\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\Server\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\dll\x86\opencv_videoio_ffmpeg452.dll
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\Server\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\Server\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\dll\x64\opencv_videoio_ffmpeg452_64.dll
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\Server\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\KI_GUI.exe
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\Server\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\KI_GUI.pdb
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\Server\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\OpenCvSharp.dll
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\Server\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\OpenCvSharp.Extensions.dll
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\Server\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\OpenCvSharp.WpfExtensions.dll
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\Server\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\System.Buffers.dll
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\Server\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\System.Drawing.Common.dll
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\Server\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\System.Memory.dll
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\Server\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\System.Numerics.Vectors.dll
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\Server\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\Server\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\System.ValueTuple.dll
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\Server\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\OpenCvSharp.xml
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\Server\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\OpenCvSharp.Extensions.xml
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\Server\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\OpenCvSharp.WpfExtensions.xml
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\Server\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\System.Buffers.xml
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\Server\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\System.Memory.xml
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\Server\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\System.Numerics.Vectors.xml
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\Server\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\Server\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\bin\Debug\System.ValueTuple.xml
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\Server\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\obj\Debug\KI_GUI._000_Main.info.resources
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\Server\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\obj\Debug\KI_GUI.KI.resources
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\Server\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\obj\Debug\KI_GUI.Properties.Resources.resources
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\Server\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\obj\Debug\KI_GUI._000_Main.Vision_Setup.resources
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\Server\00.Program_Source\GUI\KI_GUI_LGD_220825\KI_GUI\obj\Debug\KI_GUI.csproj.GenerateResource.Cache
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220830\KI_GUI\bin\Debug\KI_GUI.exe.config
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220830\KI_GUI\obj\Debug\KI_GUI.exe
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220830\KI_GUI\obj\Debug\KI_GUI.pdb
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220830\KI_GUI\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220830\KI_GUI\bin\Debug\dll\x86\opencv_videoio_ffmpeg452.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220830\KI_GUI\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220830\KI_GUI\bin\Debug\dll\x64\opencv_videoio_ffmpeg452_64.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220830\KI_GUI\bin\Debug\KI_GUI.exe
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220830\KI_GUI\bin\Debug\KI_GUI.pdb
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220830\KI_GUI\bin\Debug\OpenCvSharp.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220830\KI_GUI\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220830\KI_GUI\bin\Debug\OpenCvSharp.WpfExtensions.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220830\KI_GUI\bin\Debug\System.Buffers.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220830\KI_GUI\bin\Debug\System.Drawing.Common.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220830\KI_GUI\bin\Debug\System.Memory.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220830\KI_GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220830\KI_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220830\KI_GUI\bin\Debug\System.ValueTuple.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220830\KI_GUI\bin\Debug\OpenCvSharp.xml
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220830\KI_GUI\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220830\KI_GUI\bin\Debug\OpenCvSharp.WpfExtensions.xml
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220830\KI_GUI\bin\Debug\System.Buffers.xml
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220830\KI_GUI\bin\Debug\System.Memory.xml
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220830\KI_GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220830\KI_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220830\KI_GUI\bin\Debug\System.ValueTuple.xml
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220830\KI_GUI\obj\Debug\KI_GUI.csprojResolveAssemblyReference.cache
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220830\KI_GUI\obj\Debug\KI_GUI._000_Main.info.resources
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220830\KI_GUI\obj\Debug\KI_GUI.KI.resources
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220830\KI_GUI\obj\Debug\KI_GUI.Properties.Resources.resources
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220830\KI_GUI\obj\Debug\KI_GUI._000_Main.Vision_Setup.resources
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220830\KI_GUI\obj\Debug\KI_GUI.csproj.GenerateResource.Cache
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\KI_GUI.exe.config
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\obj\Debug\KI_GUI.exe
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\obj\Debug\KI_GUI.pdb
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\dll\x86\opencv_videoio_ffmpeg452.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\dll\x64\opencv_videoio_ffmpeg452_64.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\KI_GUI.exe
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\KI_GUI.pdb
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\OpenCvSharp.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\OpenCvSharp.WpfExtensions.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\System.Buffers.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\System.Drawing.Common.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\System.Memory.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\System.ValueTuple.dll
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\OpenCvSharp.xml
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\OpenCvSharp.WpfExtensions.xml
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\System.Buffers.xml
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\System.Memory.xml
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\System.ValueTuple.xml
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\obj\Debug\KI_GUI.csprojResolveAssemblyReference.cache
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\obj\Debug\KI_GUI._000_Main.info.resources
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\obj\Debug\KI_GUI.KI.resources
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\obj\Debug\KI_GUI.Properties.Resources.resources
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\obj\Debug\KI_GUI._000_Main.Vision_Setup.resources
+C:\Users\master\Desktop\svn\01.LGD\LM(TV)(OLED)\LM270EUY-SPN12 ICT&Download_\00.Program_Source\GUI\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\obj\Debug\KI_GUI.csproj.GenerateResource.Cache
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\TEST BENCH\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\KI_GUI.exe.config
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\TEST BENCH\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\obj\Debug\KI_GUI.exe
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\TEST BENCH\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\obj\Debug\KI_GUI.pdb
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\TEST BENCH\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\TEST BENCH\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\dll\x86\opencv_videoio_ffmpeg452.dll
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\TEST BENCH\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\TEST BENCH\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\dll\x64\opencv_videoio_ffmpeg452_64.dll
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\TEST BENCH\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\KI_GUI.exe
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\TEST BENCH\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\KI_GUI.pdb
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\TEST BENCH\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\OpenCvSharp.dll
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\TEST BENCH\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\OpenCvSharp.Extensions.dll
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\TEST BENCH\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\OpenCvSharp.WpfExtensions.dll
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\TEST BENCH\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\System.Buffers.dll
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\TEST BENCH\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\System.Drawing.Common.dll
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\TEST BENCH\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\System.Memory.dll
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\TEST BENCH\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\System.Numerics.Vectors.dll
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\TEST BENCH\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\TEST BENCH\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\System.ValueTuple.dll
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\TEST BENCH\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\OpenCvSharp.xml
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\TEST BENCH\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\OpenCvSharp.Extensions.xml
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\TEST BENCH\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\OpenCvSharp.WpfExtensions.xml
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\TEST BENCH\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\System.Buffers.xml
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\TEST BENCH\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\System.Memory.xml
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\TEST BENCH\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\System.Numerics.Vectors.xml
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\TEST BENCH\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\TEST BENCH\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\bin\Debug\System.ValueTuple.xml
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\TEST BENCH\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\obj\Debug\KI_GUI.csprojResolveAssemblyReference.cache
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\TEST BENCH\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\obj\Debug\KI_GUI._000_Main.info.resources
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\TEST BENCH\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\obj\Debug\KI_GUI.KI.resources
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\TEST BENCH\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\obj\Debug\KI_GUI.Properties.Resources.resources
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\TEST BENCH\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\obj\Debug\KI_GUI._000_Main.Vision_Setup.resources
+E:\2022 WORKS\2022 PROJECTS\LD270EUY-SPN12\TEST BENCH\KI_GUI_LGD_220916_디버그창 삭제\KI_GUI\obj\Debug\KI_GUI.csproj.GenerateResource.Cache
+E:\회사업무폴더\SVN 서버자료\LGD\LM(TV)(OLED)\LM238WF5-SSK1-LM4 ICT&Download JIG[LXS]\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\회사업무폴더\SVN 서버자료\LGD\LM(TV)(OLED)\LM238WF5-SSK1-LM4 ICT&Download JIG[LXS]\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\dll\x86\opencv_videoio_ffmpeg452.dll
+E:\회사업무폴더\SVN 서버자료\LGD\LM(TV)(OLED)\LM238WF5-SSK1-LM4 ICT&Download JIG[LXS]\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\회사업무폴더\SVN 서버자료\LGD\LM(TV)(OLED)\LM238WF5-SSK1-LM4 ICT&Download JIG[LXS]\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\dll\x64\opencv_videoio_ffmpeg452_64.dll
+E:\회사업무폴더\SVN 서버자료\LGD\LM(TV)(OLED)\LM238WF5-SSK1-LM4 ICT&Download JIG[LXS]\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\KI_GUI.exe.config
+E:\회사업무폴더\SVN 서버자료\LGD\LM(TV)(OLED)\LM238WF5-SSK1-LM4 ICT&Download JIG[LXS]\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\KI_GUI.exe
+E:\회사업무폴더\SVN 서버자료\LGD\LM(TV)(OLED)\LM238WF5-SSK1-LM4 ICT&Download JIG[LXS]\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\KI_GUI.pdb
+E:\회사업무폴더\SVN 서버자료\LGD\LM(TV)(OLED)\LM238WF5-SSK1-LM4 ICT&Download JIG[LXS]\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\OpenCvSharp.dll
+E:\회사업무폴더\SVN 서버자료\LGD\LM(TV)(OLED)\LM238WF5-SSK1-LM4 ICT&Download JIG[LXS]\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\OpenCvSharp.Extensions.dll
+E:\회사업무폴더\SVN 서버자료\LGD\LM(TV)(OLED)\LM238WF5-SSK1-LM4 ICT&Download JIG[LXS]\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\OpenCvSharp.WpfExtensions.dll
+E:\회사업무폴더\SVN 서버자료\LGD\LM(TV)(OLED)\LM238WF5-SSK1-LM4 ICT&Download JIG[LXS]\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\System.Buffers.dll
+E:\회사업무폴더\SVN 서버자료\LGD\LM(TV)(OLED)\LM238WF5-SSK1-LM4 ICT&Download JIG[LXS]\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\System.Drawing.Common.dll
+E:\회사업무폴더\SVN 서버자료\LGD\LM(TV)(OLED)\LM238WF5-SSK1-LM4 ICT&Download JIG[LXS]\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\System.Memory.dll
+E:\회사업무폴더\SVN 서버자료\LGD\LM(TV)(OLED)\LM238WF5-SSK1-LM4 ICT&Download JIG[LXS]\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\System.Numerics.Vectors.dll
+E:\회사업무폴더\SVN 서버자료\LGD\LM(TV)(OLED)\LM238WF5-SSK1-LM4 ICT&Download JIG[LXS]\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\회사업무폴더\SVN 서버자료\LGD\LM(TV)(OLED)\LM238WF5-SSK1-LM4 ICT&Download JIG[LXS]\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\System.ValueTuple.dll
+E:\회사업무폴더\SVN 서버자료\LGD\LM(TV)(OLED)\LM238WF5-SSK1-LM4 ICT&Download JIG[LXS]\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\OpenCvSharp.xml
+E:\회사업무폴더\SVN 서버자료\LGD\LM(TV)(OLED)\LM238WF5-SSK1-LM4 ICT&Download JIG[LXS]\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\OpenCvSharp.Extensions.xml
+E:\회사업무폴더\SVN 서버자료\LGD\LM(TV)(OLED)\LM238WF5-SSK1-LM4 ICT&Download JIG[LXS]\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\OpenCvSharp.WpfExtensions.xml
+E:\회사업무폴더\SVN 서버자료\LGD\LM(TV)(OLED)\LM238WF5-SSK1-LM4 ICT&Download JIG[LXS]\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\System.Buffers.xml
+E:\회사업무폴더\SVN 서버자료\LGD\LM(TV)(OLED)\LM238WF5-SSK1-LM4 ICT&Download JIG[LXS]\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\System.Memory.xml
+E:\회사업무폴더\SVN 서버자료\LGD\LM(TV)(OLED)\LM238WF5-SSK1-LM4 ICT&Download JIG[LXS]\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\System.Numerics.Vectors.xml
+E:\회사업무폴더\SVN 서버자료\LGD\LM(TV)(OLED)\LM238WF5-SSK1-LM4 ICT&Download JIG[LXS]\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\회사업무폴더\SVN 서버자료\LGD\LM(TV)(OLED)\LM238WF5-SSK1-LM4 ICT&Download JIG[LXS]\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\System.ValueTuple.xml
+E:\회사업무폴더\SVN 서버자료\LGD\LM(TV)(OLED)\LM238WF5-SSK1-LM4 ICT&Download JIG[LXS]\00.프로그램\KI_GUI_LGD_221107\KI_GUI\obj\Debug\KI_GUI.csproj.AssemblyReference.cache
+E:\회사업무폴더\SVN 서버자료\LGD\LM(TV)(OLED)\LM238WF5-SSK1-LM4 ICT&Download JIG[LXS]\00.프로그램\KI_GUI_LGD_221107\KI_GUI\obj\Debug\KI_GUI._000_Main.info.resources
+E:\회사업무폴더\SVN 서버자료\LGD\LM(TV)(OLED)\LM238WF5-SSK1-LM4 ICT&Download JIG[LXS]\00.프로그램\KI_GUI_LGD_221107\KI_GUI\obj\Debug\KI_GUI.KI.resources
+E:\회사업무폴더\SVN 서버자료\LGD\LM(TV)(OLED)\LM238WF5-SSK1-LM4 ICT&Download JIG[LXS]\00.프로그램\KI_GUI_LGD_221107\KI_GUI\obj\Debug\KI_GUI.Properties.Resources.resources
+E:\회사업무폴더\SVN 서버자료\LGD\LM(TV)(OLED)\LM238WF5-SSK1-LM4 ICT&Download JIG[LXS]\00.프로그램\KI_GUI_LGD_221107\KI_GUI\obj\Debug\KI_GUI._000_Main.Vision_Setup.resources
+E:\회사업무폴더\SVN 서버자료\LGD\LM(TV)(OLED)\LM238WF5-SSK1-LM4 ICT&Download JIG[LXS]\00.프로그램\KI_GUI_LGD_221107\KI_GUI\obj\Debug\KI_GUI.csproj.GenerateResource.cache
+E:\회사업무폴더\SVN 서버자료\LGD\LM(TV)(OLED)\LM238WF5-SSK1-LM4 ICT&Download JIG[LXS]\00.프로그램\KI_GUI_LGD_221107\KI_GUI\obj\Debug\KI_GUI.csproj.CoreCompileInputs.cache
+E:\회사업무폴더\SVN 서버자료\LGD\LM(TV)(OLED)\LM238WF5-SSK1-LM4 ICT&Download JIG[LXS]\00.프로그램\KI_GUI_LGD_221107\KI_GUI\obj\Debug\KI_GUI.csproj.CopyComplete
+E:\회사업무폴더\SVN 서버자료\LGD\LM(TV)(OLED)\LM238WF5-SSK1-LM4 ICT&Download JIG[LXS]\00.프로그램\KI_GUI_LGD_221107\KI_GUI\obj\Debug\KI_GUI.exe
+E:\회사업무폴더\SVN 서버자료\LGD\LM(TV)(OLED)\LM238WF5-SSK1-LM4 ICT&Download JIG[LXS]\00.프로그램\KI_GUI_LGD_221107\KI_GUI\obj\Debug\KI_GUI.pdb
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\KI_GUI.exe.config
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\obj\Debug\KI_GUI.exe
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\obj\Debug\KI_GUI.pdb
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\dll\x86\opencv_videoio_ffmpeg452.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\dll\x64\opencv_videoio_ffmpeg452_64.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\KI_GUI.exe
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\KI_GUI.pdb
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\OpenCvSharp.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\OpenCvSharp.Extensions.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\OpenCvSharp.WpfExtensions.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\System.Buffers.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\System.Drawing.Common.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\System.Memory.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\System.Numerics.Vectors.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\System.ValueTuple.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\OpenCvSharp.xml
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\OpenCvSharp.Extensions.xml
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\OpenCvSharp.WpfExtensions.xml
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\System.Buffers.xml
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\System.Memory.xml
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\System.Numerics.Vectors.xml
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\bin\Debug\System.ValueTuple.xml
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\obj\Debug\KI_GUI.csprojResolveAssemblyReference.cache
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\obj\Debug\KI_GUI._000_Main.info.resources
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\obj\Debug\KI_GUI.KI.resources
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\obj\Debug\KI_GUI.Properties.Resources.resources
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\obj\Debug\KI_GUI._000_Main.Vision_Setup.resources
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221107\KI_GUI\obj\Debug\KI_GUI.csproj.GenerateResource.Cache
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\KI_GUI.exe.config
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221115 Test\KI_GUI\obj\Debug\KI_GUI.exe
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221115 Test\KI_GUI\obj\Debug\KI_GUI.pdb
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\dll\x86\opencv_videoio_ffmpeg452.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\dll\x64\opencv_videoio_ffmpeg452_64.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\KI_GUI.exe
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\KI_GUI.pdb
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\OpenCvSharp.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\OpenCvSharp.Extensions.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\OpenCvSharp.WpfExtensions.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\System.Buffers.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\System.Drawing.Common.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\System.Memory.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\System.Numerics.Vectors.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\System.ValueTuple.dll
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\OpenCvSharp.xml
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\OpenCvSharp.Extensions.xml
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\OpenCvSharp.WpfExtensions.xml
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\System.Buffers.xml
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\System.Memory.xml
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\System.Numerics.Vectors.xml
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\System.ValueTuple.xml
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221115 Test\KI_GUI\obj\Debug\KI_GUI._000_Main.info.resources
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221115 Test\KI_GUI\obj\Debug\KI_GUI.KI.resources
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221115 Test\KI_GUI\obj\Debug\KI_GUI.Properties.Resources.resources
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221115 Test\KI_GUI\obj\Debug\KI_GUI._000_Main.Vision_Setup.resources
+D:\2022 PROJECTS\LM238_SSK1_LM4\Server\00.프로그램\KI_GUI_LGD_221115 Test\KI_GUI\obj\Debug\KI_GUI.csproj.GenerateResource.Cache
+D:\2022 PROJECTS\LM238WF5_SSG2_LH7\Server\00.프로그램\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\KI_GUI.exe.config
+D:\2022 PROJECTS\LM238WF5_SSG2_LH7\Server\00.프로그램\KI_GUI_LGD_221115 Test\KI_GUI\obj\Debug\KI_GUI.exe
+D:\2022 PROJECTS\LM238WF5_SSG2_LH7\Server\00.프로그램\KI_GUI_LGD_221115 Test\KI_GUI\obj\Debug\KI_GUI.pdb
+D:\2022 PROJECTS\LM238WF5_SSG2_LH7\TEST BENCH\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\KI_GUI.exe.config
+D:\2022 PROJECTS\LM238WF5_SSG2_LH7\TEST BENCH\KI_GUI_LGD_221115 Test\KI_GUI\obj\Debug\KI_GUI.exe
+D:\2022 PROJECTS\LM238WF5_SSG2_LH7\TEST BENCH\KI_GUI_LGD_221115 Test\KI_GUI\obj\Debug\KI_GUI.pdb
+D:\2022 PROJECTS\LM238WF5_SSG2_LH7\TEST BENCH\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\2022 PROJECTS\LM238WF5_SSG2_LH7\TEST BENCH\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\dll\x86\opencv_videoio_ffmpeg452.dll
+D:\2022 PROJECTS\LM238WF5_SSG2_LH7\TEST BENCH\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\2022 PROJECTS\LM238WF5_SSG2_LH7\TEST BENCH\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\dll\x64\opencv_videoio_ffmpeg452_64.dll
+D:\2022 PROJECTS\LM238WF5_SSG2_LH7\TEST BENCH\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\KI_GUI.exe
+D:\2022 PROJECTS\LM238WF5_SSG2_LH7\TEST BENCH\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\KI_GUI.pdb
+D:\2022 PROJECTS\LM238WF5_SSG2_LH7\TEST BENCH\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\OpenCvSharp.dll
+D:\2022 PROJECTS\LM238WF5_SSG2_LH7\TEST BENCH\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\OpenCvSharp.Extensions.dll
+D:\2022 PROJECTS\LM238WF5_SSG2_LH7\TEST BENCH\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\OpenCvSharp.WpfExtensions.dll
+D:\2022 PROJECTS\LM238WF5_SSG2_LH7\TEST BENCH\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\System.Buffers.dll
+D:\2022 PROJECTS\LM238WF5_SSG2_LH7\TEST BENCH\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\System.Drawing.Common.dll
+D:\2022 PROJECTS\LM238WF5_SSG2_LH7\TEST BENCH\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\System.Memory.dll
+D:\2022 PROJECTS\LM238WF5_SSG2_LH7\TEST BENCH\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\System.Numerics.Vectors.dll
+D:\2022 PROJECTS\LM238WF5_SSG2_LH7\TEST BENCH\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\2022 PROJECTS\LM238WF5_SSG2_LH7\TEST BENCH\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\System.ValueTuple.dll
+D:\2022 PROJECTS\LM238WF5_SSG2_LH7\TEST BENCH\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\OpenCvSharp.xml
+D:\2022 PROJECTS\LM238WF5_SSG2_LH7\TEST BENCH\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\OpenCvSharp.Extensions.xml
+D:\2022 PROJECTS\LM238WF5_SSG2_LH7\TEST BENCH\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\OpenCvSharp.WpfExtensions.xml
+D:\2022 PROJECTS\LM238WF5_SSG2_LH7\TEST BENCH\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\System.Buffers.xml
+D:\2022 PROJECTS\LM238WF5_SSG2_LH7\TEST BENCH\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\System.Memory.xml
+D:\2022 PROJECTS\LM238WF5_SSG2_LH7\TEST BENCH\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\System.Numerics.Vectors.xml
+D:\2022 PROJECTS\LM238WF5_SSG2_LH7\TEST BENCH\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\2022 PROJECTS\LM238WF5_SSG2_LH7\TEST BENCH\KI_GUI_LGD_221115 Test\KI_GUI\bin\Debug\System.ValueTuple.xml
+D:\2022 PROJECTS\LM238WF5_SSG2_LH7\TEST BENCH\KI_GUI_LGD_221115 Test\KI_GUI\obj\Debug\KI_GUI.csprojResolveAssemblyReference.cache
+D:\2022 PROJECTS\LM238WF5_SSG2_LH7\TEST BENCH\KI_GUI_LGD_221115 Test\KI_GUI\obj\Debug\KI_GUI._000_Main.info.resources
+D:\2022 PROJECTS\LM238WF5_SSG2_LH7\TEST BENCH\KI_GUI_LGD_221115 Test\KI_GUI\obj\Debug\KI_GUI.KI.resources
+D:\2022 PROJECTS\LM238WF5_SSG2_LH7\TEST BENCH\KI_GUI_LGD_221115 Test\KI_GUI\obj\Debug\KI_GUI.Properties.Resources.resources
+D:\2022 PROJECTS\LM238WF5_SSG2_LH7\TEST BENCH\KI_GUI_LGD_221115 Test\KI_GUI\obj\Debug\KI_GUI._000_Main.Vision_Setup.resources
+D:\2022 PROJECTS\LM238WF5_SSG2_LH7\TEST BENCH\KI_GUI_LGD_221115 Test\KI_GUI\obj\Debug\KI_GUI.csproj.GenerateResource.Cache
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221214 Test\KI_GUI\bin\Debug\KI_GUI.exe.config
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221214 Test\KI_GUI\obj\Debug\KI_GUI.exe
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221214 Test\KI_GUI\obj\Debug\KI_GUI.pdb
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221214 Test\KI_GUI\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221214 Test\KI_GUI\bin\Debug\dll\x86\opencv_videoio_ffmpeg452.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221214 Test\KI_GUI\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221214 Test\KI_GUI\bin\Debug\dll\x64\opencv_videoio_ffmpeg452_64.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221214 Test\KI_GUI\bin\Debug\KI_GUI.exe
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221214 Test\KI_GUI\bin\Debug\KI_GUI.pdb
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221214 Test\KI_GUI\bin\Debug\OpenCvSharp.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221214 Test\KI_GUI\bin\Debug\OpenCvSharp.Extensions.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221214 Test\KI_GUI\bin\Debug\OpenCvSharp.WpfExtensions.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221214 Test\KI_GUI\bin\Debug\System.Buffers.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221214 Test\KI_GUI\bin\Debug\System.Drawing.Common.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221214 Test\KI_GUI\bin\Debug\System.Memory.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221214 Test\KI_GUI\bin\Debug\System.Numerics.Vectors.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221214 Test\KI_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221214 Test\KI_GUI\bin\Debug\System.ValueTuple.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221214 Test\KI_GUI\bin\Debug\OpenCvSharp.xml
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221214 Test\KI_GUI\bin\Debug\OpenCvSharp.Extensions.xml
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221214 Test\KI_GUI\bin\Debug\OpenCvSharp.WpfExtensions.xml
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221214 Test\KI_GUI\bin\Debug\System.Buffers.xml
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221214 Test\KI_GUI\bin\Debug\System.Memory.xml
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221214 Test\KI_GUI\bin\Debug\System.Numerics.Vectors.xml
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221214 Test\KI_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221214 Test\KI_GUI\bin\Debug\System.ValueTuple.xml
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221214 Test\KI_GUI\obj\Debug\KI_GUI.csprojResolveAssemblyReference.cache
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221214 Test\KI_GUI\obj\Debug\KI_GUI._000_Main.info.resources
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221214 Test\KI_GUI\obj\Debug\KI_GUI.KI.resources
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221214 Test\KI_GUI\obj\Debug\KI_GUI.Properties.Resources.resources
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221214 Test\KI_GUI\obj\Debug\KI_GUI._000_Main.Vision_Setup.resources
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221214 Test\KI_GUI\obj\Debug\KI_GUI.csproj.GenerateResource.Cache
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221228 Test\KI_GUI\bin\Debug\KI_GUI.exe.config
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221228 Test\KI_GUI\obj\Debug\KI_GUI.exe
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221228 Test\KI_GUI\obj\Debug\KI_GUI.pdb
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221228 Test\KI_GUI\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221228 Test\KI_GUI\bin\Debug\dll\x86\opencv_videoio_ffmpeg452.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221228 Test\KI_GUI\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221228 Test\KI_GUI\bin\Debug\dll\x64\opencv_videoio_ffmpeg452_64.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221228 Test\KI_GUI\bin\Debug\KI_GUI.exe
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221228 Test\KI_GUI\bin\Debug\KI_GUI.pdb
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221228 Test\KI_GUI\bin\Debug\OpenCvSharp.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221228 Test\KI_GUI\bin\Debug\OpenCvSharp.Extensions.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221228 Test\KI_GUI\bin\Debug\OpenCvSharp.WpfExtensions.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221228 Test\KI_GUI\bin\Debug\System.Buffers.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221228 Test\KI_GUI\bin\Debug\System.Drawing.Common.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221228 Test\KI_GUI\bin\Debug\System.Memory.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221228 Test\KI_GUI\bin\Debug\System.Numerics.Vectors.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221228 Test\KI_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221228 Test\KI_GUI\bin\Debug\System.ValueTuple.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221228 Test\KI_GUI\bin\Debug\OpenCvSharp.xml
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221228 Test\KI_GUI\bin\Debug\OpenCvSharp.Extensions.xml
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221228 Test\KI_GUI\bin\Debug\OpenCvSharp.WpfExtensions.xml
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221228 Test\KI_GUI\bin\Debug\System.Buffers.xml
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221228 Test\KI_GUI\bin\Debug\System.Memory.xml
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221228 Test\KI_GUI\bin\Debug\System.Numerics.Vectors.xml
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221228 Test\KI_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221228 Test\KI_GUI\bin\Debug\System.ValueTuple.xml
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221228 Test\KI_GUI\obj\Debug\KI_GUI._000_Main.info.resources
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221228 Test\KI_GUI\obj\Debug\KI_GUI.KI.resources
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221228 Test\KI_GUI\obj\Debug\KI_GUI.Properties.Resources.resources
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221228 Test\KI_GUI\obj\Debug\KI_GUI._000_Main.Vision_Setup.resources
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221228 Test\KI_GUI\obj\Debug\KI_GUI.csproj.GenerateResource.Cache
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221228 Test\KI_GUI\obj\Debug\KI_GUI.csprojResolveAssemblyReference.cache
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221229 Test\KI_GUI\bin\Debug\KI_GUI.exe.config
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221229 Test\KI_GUI\obj\Debug\KI_GUI.exe
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221229 Test\KI_GUI\obj\Debug\KI_GUI.pdb
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221229 Test\KI_GUI\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221229 Test\KI_GUI\bin\Debug\dll\x86\opencv_videoio_ffmpeg452.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221229 Test\KI_GUI\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221229 Test\KI_GUI\bin\Debug\dll\x64\opencv_videoio_ffmpeg452_64.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221229 Test\KI_GUI\bin\Debug\KI_GUI.exe
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221229 Test\KI_GUI\bin\Debug\KI_GUI.pdb
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221229 Test\KI_GUI\bin\Debug\OpenCvSharp.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221229 Test\KI_GUI\bin\Debug\OpenCvSharp.Extensions.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221229 Test\KI_GUI\bin\Debug\OpenCvSharp.WpfExtensions.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221229 Test\KI_GUI\bin\Debug\System.Buffers.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221229 Test\KI_GUI\bin\Debug\System.Drawing.Common.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221229 Test\KI_GUI\bin\Debug\System.Memory.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221229 Test\KI_GUI\bin\Debug\System.Numerics.Vectors.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221229 Test\KI_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221229 Test\KI_GUI\bin\Debug\System.ValueTuple.dll
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221229 Test\KI_GUI\bin\Debug\OpenCvSharp.xml
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221229 Test\KI_GUI\bin\Debug\OpenCvSharp.Extensions.xml
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221229 Test\KI_GUI\bin\Debug\OpenCvSharp.WpfExtensions.xml
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221229 Test\KI_GUI\bin\Debug\System.Buffers.xml
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221229 Test\KI_GUI\bin\Debug\System.Memory.xml
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221229 Test\KI_GUI\bin\Debug\System.Numerics.Vectors.xml
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221229 Test\KI_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221229 Test\KI_GUI\bin\Debug\System.ValueTuple.xml
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221229 Test\KI_GUI\obj\Debug\KI_GUI._000_Main.info.resources
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221229 Test\KI_GUI\obj\Debug\KI_GUI.KI.resources
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221229 Test\KI_GUI\obj\Debug\KI_GUI.Properties.Resources.resources
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221229 Test\KI_GUI\obj\Debug\KI_GUI._000_Main.Vision_Setup.resources
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221229 Test\KI_GUI\obj\Debug\KI_GUI.csproj.GenerateResource.Cache
+D:\2022 PROJECTS\LD230EKE-FPA1-CK4\TEST BENCH\KI_GUI_LGD_221229 Test\KI_GUI\obj\Debug\KI_GUI.csprojResolveAssemblyReference.cache
+D:\2022 PROJECTS\LD290EJE_FPA1-CK3\TEST BENCH\KI_GUI_LGD_230104 Test\KI_GUI\bin\Debug\KI_GUI.exe.config
+D:\2022 PROJECTS\LD290EJE_FPA1-CK3\TEST BENCH\KI_GUI_LGD_230104 Test\KI_GUI\obj\Debug\KI_GUI.exe
+D:\2022 PROJECTS\LD290EJE_FPA1-CK3\TEST BENCH\KI_GUI_LGD_230104 Test\KI_GUI\obj\Debug\KI_GUI.pdb
+D:\2022 PROJECTS\LD290EJE_FPA1-CK3\TEST BENCH\KI_GUI_LGD_230104 Test\KI_GUI\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\2022 PROJECTS\LD290EJE_FPA1-CK3\TEST BENCH\KI_GUI_LGD_230104 Test\KI_GUI\bin\Debug\dll\x86\opencv_videoio_ffmpeg452.dll
+D:\2022 PROJECTS\LD290EJE_FPA1-CK3\TEST BENCH\KI_GUI_LGD_230104 Test\KI_GUI\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\2022 PROJECTS\LD290EJE_FPA1-CK3\TEST BENCH\KI_GUI_LGD_230104 Test\KI_GUI\bin\Debug\dll\x64\opencv_videoio_ffmpeg452_64.dll
+D:\2022 PROJECTS\LD290EJE_FPA1-CK3\TEST BENCH\KI_GUI_LGD_230104 Test\KI_GUI\bin\Debug\KI_GUI.exe
+D:\2022 PROJECTS\LD290EJE_FPA1-CK3\TEST BENCH\KI_GUI_LGD_230104 Test\KI_GUI\bin\Debug\KI_GUI.pdb
+D:\2022 PROJECTS\LD290EJE_FPA1-CK3\TEST BENCH\KI_GUI_LGD_230104 Test\KI_GUI\bin\Debug\OpenCvSharp.dll
+D:\2022 PROJECTS\LD290EJE_FPA1-CK3\TEST BENCH\KI_GUI_LGD_230104 Test\KI_GUI\bin\Debug\OpenCvSharp.Extensions.dll
+D:\2022 PROJECTS\LD290EJE_FPA1-CK3\TEST BENCH\KI_GUI_LGD_230104 Test\KI_GUI\bin\Debug\OpenCvSharp.WpfExtensions.dll
+D:\2022 PROJECTS\LD290EJE_FPA1-CK3\TEST BENCH\KI_GUI_LGD_230104 Test\KI_GUI\bin\Debug\System.Buffers.dll
+D:\2022 PROJECTS\LD290EJE_FPA1-CK3\TEST BENCH\KI_GUI_LGD_230104 Test\KI_GUI\bin\Debug\System.Drawing.Common.dll
+D:\2022 PROJECTS\LD290EJE_FPA1-CK3\TEST BENCH\KI_GUI_LGD_230104 Test\KI_GUI\bin\Debug\System.Memory.dll
+D:\2022 PROJECTS\LD290EJE_FPA1-CK3\TEST BENCH\KI_GUI_LGD_230104 Test\KI_GUI\bin\Debug\System.Numerics.Vectors.dll
+D:\2022 PROJECTS\LD290EJE_FPA1-CK3\TEST BENCH\KI_GUI_LGD_230104 Test\KI_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\2022 PROJECTS\LD290EJE_FPA1-CK3\TEST BENCH\KI_GUI_LGD_230104 Test\KI_GUI\bin\Debug\System.ValueTuple.dll
+D:\2022 PROJECTS\LD290EJE_FPA1-CK3\TEST BENCH\KI_GUI_LGD_230104 Test\KI_GUI\bin\Debug\OpenCvSharp.xml
+D:\2022 PROJECTS\LD290EJE_FPA1-CK3\TEST BENCH\KI_GUI_LGD_230104 Test\KI_GUI\bin\Debug\OpenCvSharp.Extensions.xml
+D:\2022 PROJECTS\LD290EJE_FPA1-CK3\TEST BENCH\KI_GUI_LGD_230104 Test\KI_GUI\bin\Debug\OpenCvSharp.WpfExtensions.xml
+D:\2022 PROJECTS\LD290EJE_FPA1-CK3\TEST BENCH\KI_GUI_LGD_230104 Test\KI_GUI\bin\Debug\System.Buffers.xml
+D:\2022 PROJECTS\LD290EJE_FPA1-CK3\TEST BENCH\KI_GUI_LGD_230104 Test\KI_GUI\bin\Debug\System.Memory.xml
+D:\2022 PROJECTS\LD290EJE_FPA1-CK3\TEST BENCH\KI_GUI_LGD_230104 Test\KI_GUI\bin\Debug\System.Numerics.Vectors.xml
+D:\2022 PROJECTS\LD290EJE_FPA1-CK3\TEST BENCH\KI_GUI_LGD_230104 Test\KI_GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\2022 PROJECTS\LD290EJE_FPA1-CK3\TEST BENCH\KI_GUI_LGD_230104 Test\KI_GUI\bin\Debug\System.ValueTuple.xml
+D:\2022 PROJECTS\LD290EJE_FPA1-CK3\TEST BENCH\KI_GUI_LGD_230104 Test\KI_GUI\obj\Debug\KI_GUI._000_Main.info.resources
+D:\2022 PROJECTS\LD290EJE_FPA1-CK3\TEST BENCH\KI_GUI_LGD_230104 Test\KI_GUI\obj\Debug\KI_GUI.KI.resources
+D:\2022 PROJECTS\LD290EJE_FPA1-CK3\TEST BENCH\KI_GUI_LGD_230104 Test\KI_GUI\obj\Debug\KI_GUI.Properties.Resources.resources
+D:\2022 PROJECTS\LD290EJE_FPA1-CK3\TEST BENCH\KI_GUI_LGD_230104 Test\KI_GUI\obj\Debug\KI_GUI._000_Main.Vision_Setup.resources
+D:\2022 PROJECTS\LD290EJE_FPA1-CK3\TEST BENCH\KI_GUI_LGD_230104 Test\KI_GUI\obj\Debug\KI_GUI.csproj.GenerateResource.Cache
